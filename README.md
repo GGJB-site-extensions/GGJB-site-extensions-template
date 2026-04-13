@@ -27,3 +27,4 @@ this is the header for our index page. AKA `index.html`. you can swap `{EXTENSIO
 ```
 `{EXTENSION NAME HERE}` is the same with number 2 in 'you can swap `{EXTENSION NAME HERE}` with your extension's name.'. and with `{Continue here !}`, you continue the description about your extension.
 
+4.(This readme was updated since i added a extension folder) and now we got the Extension folder. inside this folder is a file called ".gitignore". .gitignore is a file for git to ignore files. inside Extension, you need to add your extension. it needs to be a JS file (.js) since Javascript(JS) works on the web and extensions on any scratch mod(and vanilla scratch) is made with javascript(JS). if its not a .js file, your extension sadly won't run :(
